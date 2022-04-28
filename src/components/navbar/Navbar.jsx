@@ -18,7 +18,7 @@ const Navbar = () => {
                 </div>
             </div>
             <div className='navbar-center'>
-                <h1 className='logo'>BURN BRIGHT</h1>
+                <h1 className='logo'>CLOTHING STORE</h1>
             </div>
             <div className='navbar-right'>
                 <div className='menu-item'>REGISTER</div>
